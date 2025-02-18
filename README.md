@@ -8,13 +8,13 @@
 
 😌Прошла обучение на курсе [Функциональное тестирование программного обеспечения](https://rusau.net/qa-from-scratch).
 
-📙Здесь можно ознакомиться с моим [резюме](https://drive.google.com/file/d/18ceZTRbnHtjKSskbp_1GYYrBfELTQjZx/view?usp=sharing).
+📙Здесь можно ознакомиться с моим [резюме](https://drive.google.com/file/d/1V9jlCg6qhtNHfkWG1utERx0H4tfjGvUm/view?usp=sharing).
 
 
 ### 📫Контакты для связи со мной:
 
 <a href= "https://t.me/Elen_Ang"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-<a href= "mailto:ilena031606@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href= "mailto:elena7karpushina@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
 
